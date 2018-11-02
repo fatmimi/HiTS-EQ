@@ -24,48 +24,6 @@ constants from HiTS-EQ Next generation sequencing dataset.
 Here f means fraction of reaction and the 100% binding is 1. 0.5 means
 50% E-S complex formation or \[ES\]/\[S\]) = 0.5.
 
-    test <- test.import[-(1:2),]
-    frac <- 1-as.numeric(test.import[1,2:5])
-    Enzyme <- as.numeric(test.import[2,2:5])
-    names(test)<-c("sequence","t0","t1","t2","t3")
-    #calculate the summation and mole fraction
-    sum <- apply(test[,2:5],2,sum)
-    test$ft0 <- test$t0/sum[1]
-    test$ft1 <- test$t1/sum[2]
-    test$ft2 <- test$t2/sum[3]
-    test$ft3 <- test$t3/sum[4]
-
-    #calculate the fraction of individual substrate
-    test$fr0 <- 1-test$ft0/test$ft0*frac[1]
-    test$fr1 <- 1-test$ft1/test$ft0*frac[2]
-    test$fr2 <- 1-test$ft2/test$ft0*frac[3]
-    test$fr3 <- 1-test$ft3/test$ft0*frac[4]
-
-    #convert negative to random small amount in test
-
-    for(i in 1:length(test[,1])){
-      for(j in 10:13){
-       if(test[i,j] < 0){
-         test[i,j] <- abs(rnorm(1,0)/100)
-       } 
-      }
-    }
-
-    #fitting
-    test$K <- 0
-
-    for (i in 1:length(test[,1])){
-      data.ft <- cbind(Enzyme,t(test[i,10:13]))
-      data.ft <- data.frame(data.ft)
-      names(data.ft) <- c("Enzyme","f")
-      dirf <- nls( f ~ Enzyme/(Enzyme + K), data = data.ft)
-      test$K[i] <- coef(dirf)
-    #Export final result  
-    finalresult <- test[,c("sequence","K")]
-    finalresult$KA <- 1/finalresult$K
-    finalresult$RKA <- finalresult$KA/finalresult$KA[3]
-    }
-
 Result output
 -------------
 
@@ -94,4 +52,6 @@ Show the RKA distribution by histogram
 To observe the distribution of relative association constants, we used
 RKA and log(RKA). log(RKA) has more physical meanings in binding energy.
 
-![](README_files/figure-markdown_strict/pressure-1.png)![](README_files/figure-markdown_strict/pressure-2.png)
+![](README_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+
+![](README_files/figure-markdown_strict/unnamed-chunk-6-1.png)

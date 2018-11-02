@@ -21,7 +21,7 @@ head(test.import)
 ```
 Here f means fraction of reaction and the 100% binding is 1. 0.5 means 50% E-S complex formation or [ES]/[S]) = 0.5.
 
-```{r message=FALSE}
+```{r echo=FALSE}
 test <- test.import[-(1:2),]
 frac <- 1-as.numeric(test.import[1,2:5])
 Enzyme <- as.numeric(test.import[2,2:5])
@@ -77,8 +77,10 @@ write.csv(finalresult,"output.csv")
 ## Show the RKA distribution by histogram
 To observe the distribution of relative association constants, we used RKA and log(RKA). log(RKA) has more physical meanings in binding energy.
 
-```{r pressure, echo=FALSE}
+```{r echo=FALSE}
 hist(finalresult$RKA)
-hist(log(finalresult$RKA))
 ```
 
+```{r echo=FALSE}
+hist(log(finalresult$RKA))
+```
