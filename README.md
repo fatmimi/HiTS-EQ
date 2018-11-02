@@ -52,6 +52,10 @@ Show the RKA distribution by histogram
 To observe the distribution of relative association constants, we used
 RKA and log(RKA). log(RKA) has more physical meanings in binding energy.
 
+    hist(finalresult$RKA)
+
 ![](README_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+
+    hist(log(finalresult$RKA))
 
 ![](README_files/figure-markdown_strict/unnamed-chunk-6-1.png)
