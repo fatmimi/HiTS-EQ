@@ -24,22 +24,16416 @@ constants from HiTS-EQ Next generation sequencing dataset.
 Here f means fraction of reaction and the 100% binding is 1. 0.5 means
 50% E-S complex formation or \[ES\]/\[S\]) = 0.5.
 
-    ## Warning in rm(filename): object 'filename' not found
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
 
-    ##   sequence   t0   t1   t2   t3
-    ## 3   AAAAAA 4133 1425 1754 1422
-    ## 4   AAAAAC 2662 1049  998  953
-    ## 5   AAAAAG 5247 2726 2612 2322
-    ## 6   AAAAAT 3352 1115 1073  842
-    ## 7   AAAACA 2526  762  604  547
-    ## 8   AAAACC 1720  548  489  399
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
 
-Including Plots
----------------
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
 
-You can also embed plots, for example:
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
 
-![](README_files/figure-markdown_strict/pressure-1.png)
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+    ## Warning in nls(f ~ Enzyme/(Enzyme + K), data = data.ft): No starting values specified for some parameters.
+    ## Initializing 'K' to '1.'.
+    ## Consider specifying 'start' or using a selfStart model
+
+Result output
+-------------
+
+After fitting, the association constant (KA), dissociation constant (K),
+and relative association constant (RKA) will be exported in the
+following format.
+
+    head(finalresult)
+
+    ##   sequence         K         KA      RKA
+    ## 3   AAAAAA  7.968890 0.12548800 1.885934
+    ## 4   AAAAAC  8.600381 0.11627392 1.747457
+    ## 5   AAAAAG 15.028800 0.06653891 1.000000
+    ## 6   AAAAAT  6.204218 0.16118068 2.422352
+    ## 7   AAAACA  4.823659 0.20731150 3.115643
+    ## 8   AAAACC  5.540732 0.18048156 2.712421
+
+To export your file, please change the export filename in HiTS-EQ\_v2.R
+script.
+
+    write.csv(finalresult,"output.csv")
+
+Show the RKA distribution by histogram
+--------------------------------------
+
+To observe the distribution of relative association constants, we used
+RKA and log(RKA). log(RKA) has more physical meanings in binding energy.
+
+![](README_files/figure-markdown_strict/pressure-1.png)![](README_files/figure-markdown_strict/pressure-2.png)
