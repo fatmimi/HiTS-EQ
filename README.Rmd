@@ -2,7 +2,7 @@
 title: "HiTS-EQ"
 author: "Hsuan-Chun Lin"
 date: "November 2, 2018"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
