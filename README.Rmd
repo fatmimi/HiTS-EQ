@@ -16,13 +16,14 @@ head(test.import)
 ```
 Here f means fraction of reaction and the 100% binding is 1. 0.5 means 50% E-S complex formation or [ES]/[S]) = 0.5.
 
-'''{r echo=FALSE}
+```{r echo=FALSE}
 test <- test.import[-(1:2),]
 frac <- 1-as.numeric(test.import[1,2:5])
 Enzyme <- as.numeric(test.import[2,2:5])
 names(test)<-c("sequence","t0","t1","t2","t3")
 rm(filename)
-'''
+head(test)
+```
 ## Including Plots
 
 You can also embed plots, for example:

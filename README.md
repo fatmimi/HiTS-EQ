@@ -24,11 +24,18 @@ constants from HiTS-EQ Next generation sequencing dataset.
 Here f means fraction of reaction and the 100% binding is 1. 0.5 means
 50% E-S complex formation or \[ES\]/\[S\]) = 0.5.
 
-'''{r echo=FALSE} test &lt;- test.import\[-(1:2),\] frac &lt;-
-1-as.numeric(test.import\[1,2:5\]) Enzyme &lt;-
-as.numeric(test.import\[2,2:5\])
-names(test)&lt;-c("sequence","t0","t1","t2","t3") rm(filename) ''' \#\#
+    ## Warning in rm(filename): object 'filename' not found
+
+    ##   sequence   t0   t1   t2   t3
+    ## 3   AAAAAA 4133 1425 1754 1422
+    ## 4   AAAAAC 2662 1049  998  953
+    ## 5   AAAAAG 5247 2726 2612 2322
+    ## 6   AAAAAT 3352 1115 1073  842
+    ## 7   AAAACA 2526  762  604  547
+    ## 8   AAAACC 1720  548  489  399
+
 Including Plots
+---------------
 
 You can also embed plots, for example:
 
