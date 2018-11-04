@@ -20,7 +20,7 @@ Cell chemical biology 23 (10), 1271-128
 
 https://www.sciencedirect.com/science/article/pii/S2451945616302975
 
-1. Input your data. The data format is in .csv file and the csv file format is shown below.
+##Input your data. The data format is in .csv file and the csv file format is shown below.
 ```{r }
 #Data input
 test.import <- read.csv('import_data.csv', header=T)
@@ -57,7 +57,7 @@ for(i in 1:length(test[,1])){
 }
 ```
 
-#Fitting parameter adjustment
+##Fitting parameter adjustment
 Here we only need one initial value for the non linear fitting, the K. you can set it in the .R file in the fitting part:
 ```{r }
 #fitting
@@ -78,6 +78,9 @@ finalresult$KA <- 1/finalresult$K
 finalresult$RKA <- finalresult$KA/finalresult$KA[3]
 }
 ```
+##Choose the reference sequence to calculate the relative association constants.
+TBA
+
 ##Result output
 
 After fitting, the association constant (KA), dissociation constant (K), and relative association constant (RKA) will be exported in the following format. 

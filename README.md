@@ -13,10 +13,8 @@ biology 23 (10), 1271-128
 
 <https://www.sciencedirect.com/science/article/pii/S2451945616302975>
 
-1.  Input your data. The data format is in .csv file and the csv file
-    format is shown below.
-
-<!-- -->
+Input your data. The data format is in .csv file and the csv file format is shown below.
+----------------------------------------------------------------------------------------
 
     #Data input
     test.import <- read.csv('import_data.csv', header=T)
@@ -34,7 +32,7 @@ Here f means fraction of reaction and the 100% binding is 1. 0.5 means
 50% E-S complex formation or \[ES\]/\[S\]) = 0.5.
 
 Fitting parameter adjustment
-============================
+----------------------------
 
 Here we only need one initial value for the non linear fitting, the K.
 you can set it in the .R file in the fitting part:
@@ -42,6 +40,11 @@ you can set it in the .R file in the fitting part:
     #fitting
     test$K <- 0
     start.values = list(K = 0.01)
+
+Choose the reference sequence to calculate the relative association constants.
+------------------------------------------------------------------------------
+
+TBA
 
 Result output
 -------------

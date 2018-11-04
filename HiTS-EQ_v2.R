@@ -4,12 +4,13 @@
 #The original edition calculate Xi as Si0/sum(si0)
 
 #Data input
-print("Please input your filename (in .csv format)")
-filename <- readline()
-filename <- paste(filename,".csv",sep="")
+#print("Please input your filename (in .csv format)")
+#filename <- readline()
+#filename <- paste(filename,".csv",sep="")
 
 #import your .csv file as test
-test.import <- read.csv(filename, header=T)
+test.import <- read.csv('import_data.csv', header=T)
+
 test <- test.import[-(1:2),]
 frac <- 1-as.numeric(test.import[1,2:5])
 Enzyme <- as.numeric(test.import[2,2:5])
@@ -32,7 +33,7 @@ test$fr3 <- 1-test$ft3/test$ft0*frac[4]
 
 #convert negative to random small amount in test
 
-for(i in 1:1:length(test[,1])){
+for(i in 1:length(test[,1])){
   for(j in 10:13){
    if(test[i,j] < 0){
      test[i,j] <- abs(rnorm(1,0)/100)
