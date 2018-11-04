@@ -6,20 +6,21 @@ constants from HiTS-EQ Next generation sequencing dataset. It would be
 great if you could cite our publication after your application of
 HiTS-EQ:
 
-#### Analysis of the RNA binding specificity landscape of C5 protein reveals structure and sequence preferences that direct RNase P specificity
-
-HC Lin, J Zhao, CN Niland, B Tran, E Jankowsky, ME Harris Cell chemical
-biology 23 (10), 1271-128
+**Analysis of the RNA binding specificity landscape of C5 protein
+reveals structure and sequence preferences that direct RNase P
+specificity**  
+HC Lin, J Zhao, CN Niland, B Tran, E Jankowsky, ME Harris  
+Cell chemical biology 23 (10), 1271-128
 
 <https://www.sciencedirect.com/science/article/pii/S2451945616302975>
 
 File list
 ---------
 
-HiTS-EQ\_v2.R : The R script to do the calculation. import\_data.csv :
-The .csv file to demo the calculation and show the format of the input
-file. output.csv: The .csv file which has your results includes K, KA
-and RKA.
+HiTS-EQ\_v2.R : The R script to do the calculation.  
+import\_data.csv : The .csv file to demo the calculation and show the
+format of the input file.  
+output.csv: The .csv file which has your results includes K, KA and RKA.
 
 Input your data. The data format is in .csv file and the csv file format is shown below.
 ----------------------------------------------------------------------------------------
