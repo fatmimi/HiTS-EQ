@@ -1,13 +1,12 @@
 HiTS-EQ
--------
+=======
 
 This is the document for calculation of more than 4000 association
 constants from HiTS-EQ Next generation sequencing dataset. It would be
 great if you could cite our publication after your application of
 HiTS-EQ:
 
-Analysis of the RNA binding specificity landscape of C5 protein reveals structure and sequence preferences that direct RNase P specificity
-==========================================================================================================================================
+### Analysis of the RNA binding specificity landscape of C5 protein reveals structure and sequence preferences that direct RNase P specificity
 
 HC Lin, J Zhao, CN Niland, B Tran, E Jankowsky, ME Harris Cell chemical
 biology 23 (10), 1271-128
