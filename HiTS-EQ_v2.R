@@ -42,12 +42,12 @@ for(i in 1:1:length(test[,1])){
 
 #fitting
 test$K <- 0
-
+start.values = list(K = 0.01)
 for (i in 1:length(test[,1])){
   data.ft <- cbind(Enzyme,t(test[i,10:13]))
   data.ft <- data.frame(data.ft)
   names(data.ft) <- c("Enzyme","f")
-  dirf <- nls( f ~ Enzyme/(Enzyme + K), data = data.ft)
+  dirf <- nls( f ~ Enzyme/(Enzyme + K), data = data.ft, start = start.values)
   test$K[i] <- coef(dirf)
   
 }
