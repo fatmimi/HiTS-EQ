@@ -20,6 +20,11 @@ Cell chemical biology 23 (10), 1271-128
 
 https://www.sciencedirect.com/science/article/pii/S2451945616302975
 
+##Equation Derivation
+The internal competition equation which is used in this .R file to process the nonlinear regression is shown below:  
+$f = 1 -( \frac{D_{t}}{D_t1}\times (1-frac) \times \frac{D_1}{D_0})= \frac{E}{E+K_D}$
+For more detail of this equation, please see the pdf file <EQ-directFit.pdf> in ./Equation/
+
 ##File list
 HiTS-EQ_v2.R : The R script to do the calculation.  
 import_data.csv : The .csv file to demo the calculation and show the format of the input file.  
